@@ -1,4 +1,4 @@
-age = 20
+age = 17
 
 if age >= 20:
     print("販売")
